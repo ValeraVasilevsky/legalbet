@@ -1,0 +1,3 @@
+.card {
+  @apply flex justify-start items-center flex-col shadow-2xl rounded-lg p-4 w-[351px];
+}
